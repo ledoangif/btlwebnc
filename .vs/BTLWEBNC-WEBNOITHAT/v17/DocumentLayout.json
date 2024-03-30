@@ -1,0 +1,951 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\cart\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\cart\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\_layouttrangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\_layouttrangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\_layoutblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\_layoutblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\blog\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\blog\\blogdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\access\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\access\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\danhmuctintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\danhmuctintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\homeadmin\\updatesanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\homeadmin\\updatesanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\home\\tatcasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\home\\tatcasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\partialrecentnewblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\partialrecentnewblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\partialblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\partialblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\_partialblogpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\_partialblogpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\_notificationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\_notificationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\shared\\_layoutsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\shared\\_layoutsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\models\\tblchitietgiohang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\models\\tblchitietgiohang1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\models\\tblgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\models\\tblgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\cart\\cartpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\cart\\cartpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\themtintucmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\themtintucmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\controllers\\heartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\controllers\\heartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\updatetintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\views\\tblogs\\updatetintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\wwwroot\\blog\\03a6c6fe-034a-4518-a3d9-016e78084fbb_blog4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\wwwroot\\blog\\03a6c6fe-034a-4518-a3d9-016e78084fbb_blog4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\views\\heart\\yeuthich.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\views\\heart\\yeuthich.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|d:\\btlwebnc-webnoithat (2)b\u1EA3n test\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\btlwebnc-webnoithat\\areas\\admin\\controllers\\tblogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8354E2B-DF5F-4C79-869D-77ECEF9B52E3}|BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT.csproj|solutionrelative:btlwebnc-webnoithat\\areas\\admin\\controllers\\tblogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T09:04:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutBlog.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutBlog.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutBlog.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutBlog.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutBlog.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAJ8AAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T16:19:51.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutTrangchu.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutTrangchu.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutTrangchu.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutTrangchu.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutTrangchu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T01:29:21.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Cart\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Cart\\GioHang.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Cart\\GioHang.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Cart\\GioHang.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAtwE0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T01:53:48.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:58:33.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Program.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Program.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Program.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:57:28.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogDetails.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Blog\\BlogDetails.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Blog\\BlogDetails.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Blog\\BlogDetails.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Blog\\BlogDetails.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T07:46:07.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Blog\\Blog.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Blog\\Blog.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Blog\\Blog.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Blog\\Blog.cshtml",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T07:46:05.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Access\\Register.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Access\\Register.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Access\\Register.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Access\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:10:02.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Access\\Login.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:32:43.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DanhMucTinTuc.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\DanhMucTinTuc.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\DanhMucTinTuc.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\DanhMucTinTuc.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\DanhMucTinTuc.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:03:27.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:02:55.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAHUAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:03:07.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThemSanPhamMoi.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:02:57.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T13:56:47.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateSanPham.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\UpdateSanPham.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\UpdateSanPham.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\UpdateSanPham.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\HomeAdmin\\UpdateSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:03:01.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T07:45:55.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TatCaSanPham.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\TatCaSanPham.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\TatCaSanPham.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\TatCaSanPham.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\TatCaSanPham.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T08:55:53.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SanPhamTheoLoai.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T07:45:28.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T08:55:51.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Gioithieu.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\Gioithieu.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\Gioithieu.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\Gioithieu.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\Gioithieu.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAH0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T13:18:42.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChiTietSanPham.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\ChiTietSanPham.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Home\\ChiTietSanPham.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T08:55:40.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PartialSanPham.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialSanPham.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:04:27.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PartialRecentNewBlog.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialRecentNewBlog.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialRecentNewBlog.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialRecentNewBlog.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialRecentNewBlog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:06:02.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PartialBlog.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialBlog.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialBlog.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialBlog.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\PartialBlog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:06:01.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:05:59.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:05:58.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_PartialBlogPost.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_PartialBlogPost.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_PartialBlogPost.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_PartialBlogPost.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_PartialBlogPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:05:55.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TblChiTietGioHang1.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Models\\TblChiTietGioHang1.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Models\\TblChiTietGioHang1.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Models\\TblChiTietGioHang1.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Models\\TblChiTietGioHang1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:47:35.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LayoutSP.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutSP.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutSP.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutSP.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_LayoutSP.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAJ8AAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:00:32.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_NotificationPartial.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_NotificationPartial.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_NotificationPartial.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_NotificationPartial.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Shared\\_NotificationPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T13:55:03.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAtwDEBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:04:06.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TblGioHang.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Models\\TblGioHang.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Models\\TblGioHang.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Models\\TblGioHang.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Models\\TblGioHang.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:11:17.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Contact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Contact\\Contact.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Contact\\Contact.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Contact\\Contact.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T12:35:01.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CartPartialView.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Cart\\CartPartialView.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Cart\\CartPartialView.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Cart\\CartPartialView.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Cart\\CartPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T14:59:07.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ThemTinTucMoi.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\ThemTinTucMoi.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\ThemTinTucMoi.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\ThemTinTucMoi.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\ThemTinTucMoi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T15:33:28.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\Index.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\Index.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:03:42.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\Details.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\Details.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T14:03:34.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HeartController.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\HeartController.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Controllers\\HeartController.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\HeartController.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Controllers\\HeartController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:58:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T17:25:21.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:58:14.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateTinTuc.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\UpdateTinTuc.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\UpdateTinTuc.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\UpdateTinTuc.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Views\\TBlogs\\UpdateTinTuc.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T15:33:31.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:59:03.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Models\\ProductModels\\Product.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Models\\ProductModels\\Product.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Models\\ProductModels\\Product.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Models\\ProductModels\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:24:20.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "bootstrap-utilities.min.css.map",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACFHAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-24T12:42:26.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "bootstrap-utilities.rtl.min.css.map",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABuHAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-24T12:42:30.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AQIAAJYFAAAAAAAAAAAuwKcFAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-24T12:42:32.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-24T12:30:57.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAHQPAAAAAAAAAAASwIUPAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-24T06:56:36.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AQIAAPwAAAAAAAAAAIBpwLkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T15:17:45.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMigAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T15:17:25.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoaiSpMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:51:17.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "03a6c6fe-034a-4518-a3d9-016e78084fbb_blog4.jpg - Bitmap [1020x850, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\03a6c6fe-034a-4518-a3d9-016e78084fbb_blog4.jpg",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\03a6c6fe-034a-4518-a3d9-016e78084fbb_blog4.jpg",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\03a6c6fe-034a-4518-a3d9-016e78084fbb_blog4.jpg - Bitmap [1020x850, 24 bit, JPG]",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\03a6c6fe-034a-4518-a3d9-016e78084fbb_blog4.jpg - Bitmap [1020x850, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-15T16:00:52.409Z",
+              "EditorCaption": " - Bitmap [1020x850, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-14T16:37:05.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoaiSpRepository.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Repository\\LoaiSpRepository.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Repository\\LoaiSpRepository.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Repository\\LoaiSpRepository.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Repository\\LoaiSpRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:57:21.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "YeuThich.cshtml",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Heart\\YeuThich.cshtml",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Views\\Heart\\YeuThich.cshtml",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Views\\Heart\\YeuThich.cshtml",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Views\\Heart\\YeuThich.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBpwDgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T07:46:20.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TBlogsController.cs",
+              "DocumentMoniker": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Controllers\\TBlogsController.cs",
+              "RelativeDocumentMoniker": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Controllers\\TBlogsController.cs",
+              "ToolTip": "D:\\BTLWEBNC-WEBNOITHAT (2)B\u1EA3n test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Controllers\\TBlogsController.cs",
+              "RelativeToolTip": "BTLWEBNC-WEBNOITHAT\\Areas\\Admin\\Controllers\\TBlogsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:27:02.12Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

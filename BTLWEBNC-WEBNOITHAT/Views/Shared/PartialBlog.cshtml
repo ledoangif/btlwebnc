@@ -1,0 +1,18 @@
+﻿@model TBlog
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="blog__item">
+    <div class="blog__item__pic">
+        <img src=~/blog/@Model.TenFileAnh>
+    </div>
+    <div class="blog__item__text">
+        <ul>
+            <li><i class="fa fa-calendar-o"></i> @Model.NgayDang</li>
+            <li><i class="fa fa-comment-o"></i> 5</li>
+        </ul>
+        <h5><a asp-controller="Blog" asp-action="BlogDetails" asp-route-id="@Model.Idblog">@Model.TieuDe</a></h5>
+        <p>@Model.Scontent</p>
+        <a asp-controller="Blog" asp-action="BlogDetails" asp-route-id="@Model.Idblog" class="blog__btn">READ MORE<span class="arrow_right"></span></a>
+        @*<a asp-controller="Blog" asp-action="BlogDetails">READ MORE</a>*@
+    </div>
+</div>
+</div>

@@ -1,0 +1,98 @@
+﻿@model IEnumerable<BTLWEBNC_WEBNOITHAT.Models.TblChiTietGioHang1>
+
+@{
+    ViewData["Title"] = "GioHang";
+    Layout = "~/Views/Shared/_LayoutTrangchu.cshtml";
+}
+
+<h2 class="pt-3 pb-3">Danh sách đơn hàng của bạn</h2>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                Tên sản phẩm
+            </th>
+            <th>
+                Ảnh minh họa
+            </th>
+            <th>
+                Số lượng
+            </th>
+            <th>
+                Giá tiền
+            </th>
+            <th>
+                Tổng tiền
+            </th>
+            <th>
+                Chọn
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenSp)
+                </td>
+                <td>
+                    <img src="@Url.Content("../images/funir-images/"+item.HinhAnh)" style="width:100px;height:100px">
+
+                </td>
+                <td>
+                    <form method="post">
+                        <td>
+                            <button class="btn btn-success" onclick="changeQuantity('@item.IdchiTietDonHang', '-')">-</button>
+                            <span id="soLuong_@item.IdchiTietDonHang">@item.SoLuong</span>
+                            <button class="btn btn-success" onclick="changeQuantity('@item.IdchiTietDonHang', '+')">+</button>
+                        </td>
+
+                    </form>
+                </td>
+
+                <td>
+                    @Html.Raw(@String.Format("{0:N}", item.ThanhTien)) <span>VND</span>
+                </td>
+                <td>
+                    @Html.Raw(@String.Format("{0:N}", item.TongTien)) <span>VND</span>
+
+                </td>
+                <td>
+                    <label>
+                        <input type="checkbox" name="isChecked" value="@Html.DisplayFor(modelItem => item.IdchiTietDonHang)" id="@item.IdchiTietDonHang" @(item.Check1.GetValueOrDefault() ? "checked" : "")
+                               onclick="check123(@item.IdchiTietDonHang)">
+                    </label>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.IdchiTietDonHang">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="btn btn-primary">
+    <a asp-action="GioHang" style="color:#fff" class="text-decoration-none">Update</a>
+</div>
+<h3 class="text-right ml-3">Tổng số tiền cần trả là: <span id="tongtienmoi">@Html.Raw(@String.Format("{0:N}", @TempData["TongSotien"]))</span>  </h3>
+
+
+<script>
+    function changeQuantity(id, action) {
+        $.ajax({
+            type: "POST",
+            url: "/Cart/Thaydoi", // Đường dẫn đến action Thaydoi trong controller Cart
+            data: { id: id, action: action },
+            success: function (response) {
+                // Cập nhật số lượng và tổng tiền trên trang dựa trên phản hồi từ máy chủ
+                $("#SoLuong").text(response.soLuong);
+                $("#TongTien").text(response.tongTien);
+                $("#tongtienmoi").text(response.tongTienTatCa);
+            }
+        });
+    }
+</script>
+

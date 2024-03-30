@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutSP.cshtml";
+}
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TDanhMucSp>
+<div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <h2>Sản phẩm nổi bật</h2>
+                </div>
+            </div>
+        </div>
+</div>
+@foreach(var item in Model)
+{
+    @await Html.PartialAsync("PartialSanPham",item)
+
+}
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page=>Url.Action("Index",new{page =page}))
+</div>
+
+<div class="banner mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6">
+                <div class="banner__pic">
+                    <img src="../images/funir-images/anhnen.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6">
+                <div class="banner__pic">
+                    <img src="../images/funir-images/new3.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

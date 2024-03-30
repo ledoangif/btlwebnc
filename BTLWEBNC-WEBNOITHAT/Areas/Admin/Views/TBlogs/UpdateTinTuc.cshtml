@@ -1,0 +1,94 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@*@model BTLWEBNC_WEBNOITHAT.Models.TBlog*@
+@model BTLWEBNC_WEBNOITHAT.ViewModels.CreatePostVM
+@{
+    ViewData["Title"] = "UpdateTinTuc";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>UpdateTinTuc</h1>
+
+<h4>TBlog</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="UpdateTinTuc" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="TenFileAnh"/>
+            <div class="form-group">
+                <label asp-for="TieuDe" class="control-label"></label>
+                <input asp-for="TieuDe" class="form-control" />
+                <span asp-validation-for="TieuDe" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TacGia" class="control-label"></label>
+                <input asp-for="TacGia" class="form-control" />
+                <span asp-validation-for="TacGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SContent" class="control-label"></label>
+                <input asp-for="SContent" class="form-control" />
+                <span asp-validation-for="SContent" class="text-danger"></span>
+            </div>
+            
+            <div class ="form-group">
+                <div class="mb-2">
+                    @{
+                        if (Model != null && Model.TenFileAnh != null)
+                        {
+                            <img src="~/blog/@Model.TenFileAnh" class="img-fluid" id="thumbnail" />
+                        }
+                        else
+                        {
+                            <img src="~/blog/default_image.png" class="img-fluid" id="thumbnail" />
+                        }
+                    }
+                </div>
+                <div class="mb-2">
+                    <label>Thumbnail</label>
+                    <input type="file" asp-for="Anh" class="custom-file" id="Anh" />
+                    <span asp-validation-for="Content" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label"></label>
+                <input asp-for="Content" class="form-control" />
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-area="admin" asp-controller="HomeAdmin" asp-action="DanhMucSanPham">Back to List</a>
+</div>
+
+<script>
+    // Function to preview the selected image
+    function previewImage(input) {
+        var file = input.files[0];
+
+        if (file) {
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                document.getElementById('thumbnail').src = e.target.result;
+            };
+
+            reader.readAsDataURL(file);
+        } else {
+            // If no file is selected, show the default image
+            document.getElementById('thumbnail').src = '~/blog/default_image.png';
+        }
+    }
+
+    // Attach the previewImage function to the change event of the file input
+    document.getElementById('Anh').addEventListener('change', function () {
+        previewImage(this);
+    });
+</script>

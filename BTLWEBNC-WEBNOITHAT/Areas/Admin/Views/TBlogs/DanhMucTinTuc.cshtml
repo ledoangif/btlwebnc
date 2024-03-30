@@ -1,0 +1,61 @@
+﻿@using BTLWEBNC_WEBNOITHAT.Models;
+@{
+    ViewData["Title"] = "DanhMucTinTuc";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TBlog>
+<h1>DanhMucTinTuc</h1>
+
+<p>
+    <a asp-action="ThemTinTucMoi">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tiêu đề
+            </th>
+            <th>
+                Ảnh mô tả
+            </th>
+            <th>
+                Tác giả
+            </th>
+            <th>
+                Ngày đăng
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TieuDe)
+            </td>
+            <td>
+               
+                <img style="width:50px;height:50px" src="~/blog/@item.TenFileAnh" class="img-fluid" id="thumbnail" />
+                
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TacGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDang)
+            </td>
+            <td>
+                <a asp-action="UpdateTinTuc" asp-route-id="@item.Idblog">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Idblog">Details</a> |
+                <a asp-action="XoaTinTuc" asp-route-id="@item.Idblog">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page=>Url.Action("DanhMucTinTuc",new{page =page}))
+</div>

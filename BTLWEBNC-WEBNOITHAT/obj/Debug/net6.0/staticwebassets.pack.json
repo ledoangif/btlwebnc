@@ -1,0 +1,925 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\gioithieu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\gioithieu.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\language.png",
+      "PackagePath": "staticwebassets\\assets\\img\\language.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-item.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\03a6c6fe-034a-4518-a3d9-016e78084fbb_blog4.jpg",
+      "PackagePath": "staticwebassets\\blog\\03a6c6fe-034a-4518-a3d9-016e78084fbb_blog4.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\191a6a6f-e9ac-4864-9729-37b15754986e_blog5.jpg",
+      "PackagePath": "staticwebassets\\blog\\191a6a6f-e9ac-4864-9729-37b15754986e_blog5.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\19cafe86-9ef2-446f-93ea-937691712348_music4life.jpg",
+      "PackagePath": "staticwebassets\\blog\\19cafe86-9ef2-446f-93ea-937691712348_music4life.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\1fcda569-9f2f-4783-ac21-70a6f95c0d9b_logo.png",
+      "PackagePath": "staticwebassets\\blog\\1fcda569-9f2f-4783-ac21-70a6f95c0d9b_logo.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\2586b48a-25c3-4141-bd80-019e5058a109_musicphoto.jpg",
+      "PackagePath": "staticwebassets\\blog\\2586b48a-25c3-4141-bd80-019e5058a109_musicphoto.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\3751da12-9ba9-4f8f-819c-c57a5011b332_logo.png",
+      "PackagePath": "staticwebassets\\blog\\3751da12-9ba9-4f8f-819c-c57a5011b332_logo.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\48c5c49f-f039-4f60-8437-88bea73c1d03_musicphoto.jpg",
+      "PackagePath": "staticwebassets\\blog\\48c5c49f-f039-4f60-8437-88bea73c1d03_musicphoto.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\50613b0d-975f-4996-8bf4-3edb8436fe47_musicphoto.jpg",
+      "PackagePath": "staticwebassets\\blog\\50613b0d-975f-4996-8bf4-3edb8436fe47_musicphoto.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\60a17ff8-bd13-409c-81f0-43dc9457698a_music4life.jpg",
+      "PackagePath": "staticwebassets\\blog\\60a17ff8-bd13-409c-81f0-43dc9457698a_music4life.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\63021c29-b6d1-48e9-b36c-6264d4b43bf9_musicphoto.jpg",
+      "PackagePath": "staticwebassets\\blog\\63021c29-b6d1-48e9-b36c-6264d4b43bf9_musicphoto.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\70d3612c-8274-41b2-8741-fd9dd820df60_blog2.png",
+      "PackagePath": "staticwebassets\\blog\\70d3612c-8274-41b2-8741-fd9dd820df60_blog2.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\82efc116-5816-412c-be99-0dd37ad6e256_music2.jpg",
+      "PackagePath": "staticwebassets\\blog\\82efc116-5816-412c-be99-0dd37ad6e256_music2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\85802966-2ea2-4c26-923b-51b067701837_logo.png",
+      "PackagePath": "staticwebassets\\blog\\85802966-2ea2-4c26-923b-51b067701837_logo.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\8b5befac-d0bd-40ca-9c5a-691704e736be_blog3.jpg",
+      "PackagePath": "staticwebassets\\blog\\8b5befac-d0bd-40ca-9c5a-691704e736be_blog3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\9866f6ee-8075-462a-81f8-923f66968f32_musicphoto.jpg",
+      "PackagePath": "staticwebassets\\blog\\9866f6ee-8075-462a-81f8-923f66968f32_musicphoto.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\a06a7a1c-c857-4c74-bc5b-598d838aa867_blog6.jpg",
+      "PackagePath": "staticwebassets\\blog\\a06a7a1c-c857-4c74-bc5b-598d838aa867_blog6.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\a10f6005-c706-465a-a89f-51e4fff8ba5d_000Webhost.png",
+      "PackagePath": "staticwebassets\\blog\\a10f6005-c706-465a-a89f-51e4fff8ba5d_000Webhost.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\a9e170c4-e76d-4768-91cc-fb235777cc46_music2.jpg",
+      "PackagePath": "staticwebassets\\blog\\a9e170c4-e76d-4768-91cc-fb235777cc46_music2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\c183dd02-7ffe-48c6-a908-dfbe4b920a20_music2.jpg",
+      "PackagePath": "staticwebassets\\blog\\c183dd02-7ffe-48c6-a908-dfbe4b920a20_music2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\d5778007-1a60-489b-bae8-7812f98c7561_d38715b0-3a24-45f7-b7b0-5026688db7ca.jpg",
+      "PackagePath": "staticwebassets\\blog\\d5778007-1a60-489b-bae8-7812f98c7561_d38715b0-3a24-45f7-b7b0-5026688db7ca.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\default_image.png",
+      "PackagePath": "staticwebassets\\blog\\default_image.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\e84bcdff-a3e0-448e-b915-502f3a41fbdd_blog1.jpg",
+      "PackagePath": "staticwebassets\\blog\\e84bcdff-a3e0-448e-b915-502f3a41fbdd_blog1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\f59992c2-a88f-4552-8f02-b2625e6eb4d0_music4life.jpg",
+      "PackagePath": "staticwebassets\\blog\\f59992c2-a88f-4552-8f02-b2625e6eb4d0_music4life.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\blog\\f8664a70-9518-4174-8111-b837db868583_music2.jpg",
+      "PackagePath": "staticwebassets\\blog\\f8664a70-9518-4174-8111-b837db868583_music2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\CAFE_ROYALE_Outdoor_Table.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\CAFE_ROYALE_Outdoor_Table.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\Kegantuong.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\Kegantuong.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\LIPIZZAN_Display_Shelf_MDF_White.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\LIPIZZAN_Display_Shelf_MDF_White.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\MOZART_Bedside_table_Natural-White.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\MOZART_Bedside_table_Natural-White.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\NARBONNE_Sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\NARBONNE_Sofa.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\PALL_MALL_Dining_Table_Walnut_Rubbe_Wood.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\PALL_MALL_Dining_Table_Walnut_Rubbe_Wood.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\RIVIERA_Outdoor_Table_UMA.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\RIVIERA_Outdoor_Table_UMA.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\anhnen.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\anhnen.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\atlanta_armchair.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\atlanta_armchair.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\banner2.png",
+      "PackagePath": "staticwebassets\\images\\funir-images\\banner2.png"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\bannerrecom.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\bannerrecom.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\bo_ban_trang_diem.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\bo_ban_trang_diem.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\carine_dressing_table_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\carine_dressing_table_baya.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\dallas_sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\dallas_sofa.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\ethan_office_chair_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\ethan_office_chair_baya.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\ghe-bap-benh-viking.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\ghe-bap-benh-viking.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\giuong-harris.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\giuong-harris.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\giuong1m6.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\giuong1m6.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\giuong1m62.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\giuong1m62.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\giuong1m8.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\giuong1m8.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\houston_armchair.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\houston_armchair.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\img1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\img2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\joy_sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\joy_sofa.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\ke-trung-bay-lipizzan.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\ke-trung-bay-lipizzan.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\kededo.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\kededo.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\kitka_bed_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\kitka_bed_baya.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\kyle_office_chair_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\kyle_office_chair_baya.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\new3.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\new3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\nguoitho.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\nguoitho.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\post1.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\post1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\post2.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\post2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\post3.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\post3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\rally_bed_rubber_wood_plywood_white_uma.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\rally_bed_rubber_wood_plywood_white_uma.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\silva_sofa_bed.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\silva_sofa_bed.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\solana_outdoor_chair_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\solana_outdoor_chair_baya.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\solana_outdoor_table.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\solana_outdoor_table.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\su-menh1.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\su-menh1.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\su-menh2.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\su-menh2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\su-menh3.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\su-menh3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\su-menh4.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\su-menh4.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\sund_bedside_table_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\sund_bedside_table_baya.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\sund_cabinet_3.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\sund_cabinet_3.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\sund_combo_desk_baya.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\sund_combo_desk_baya.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tampa_sofa.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tampa_sofa.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tu_ke_tivi.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tu_ke_tivi.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tudaugiuong.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tudaugiuong.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tuketivi2.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tuketivi2.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\images\\funir-images\\tumotcanh.jpg",
+      "PackagePath": "staticwebassets\\images\\funir-images\\tumotcanh.jpg"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\BTLWEBNC-WEBNOITHAT (2)Bản test\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\BTLWEBNC-WEBNOITHAT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BTLWEBNC-WEBNOITHAT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BTLWEBNC-WEBNOITHAT.props",
+      "PackagePath": "build\\BTLWEBNC-WEBNOITHAT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BTLWEBNC-WEBNOITHAT.props",
+      "PackagePath": "buildMultiTargeting\\BTLWEBNC-WEBNOITHAT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BTLWEBNC-WEBNOITHAT.props",
+      "PackagePath": "buildTransitive\\BTLWEBNC-WEBNOITHAT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
